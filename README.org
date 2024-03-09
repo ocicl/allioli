@@ -1,0 +1,10 @@
+* allioli
+
+This is a tiny project that creates the named readtable allioli:syntax
+with the only dispatch character macro #¿.
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/Hectarea1996/allioli.git |
+| commit  | f158a59                                         |
+| systems | allioli                                         |
+|---------+-------------------------------------------------|

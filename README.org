@@ -3,8 +3,8 @@
 This is a tiny project that creates the named readtable allioli:syntax
 with the only dispatch character macro #¿.
 
-|---------+-------------------------------------------------|
-| source  | git:https://github.com/Hectarea1996/allioli.git |
-| commit  | e5290f4                                         |
-| systems | allioli                                         |
-|---------+-------------------------------------------------|
+|---------+---------------------------------------------------|
+| source  | git:https://github.com/HectareaGalbis/allioli.git |
+| commit  | e5290f4                                           |
+| systems | allioli                                           |
+|---------+---------------------------------------------------|
